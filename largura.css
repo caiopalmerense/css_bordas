@@ -1,0 +1,84 @@
+h1 {
+    color: #444444;
+    padding: 10px;
+    text-align: center;
+     font-family: "Times New Roman", serif;
+}
+h2 {
+   color: #444444;
+    padding: 10px;
+    text-align: center;
+     font-family: "Times New Roman", serif;
+}
+h3 {
+   color: #444444;
+    padding: 10px;
+    text-align: center;
+     font-family: "Times New Roman", serif;
+}
+h4 {
+   color: #444444;
+    padding: 10px;
+    text-align: center;
+     font-family: "Times New Roman", serif;
+    font-size: 20px;
+}
+li {
+   color: black;
+    padding: 10px;
+     font-family: "Times New Roman", serif;
+}
+p {
+    color: black;
+    padding: 10px;
+    text-align: justify;
+     font-family: "Times New Roman", serif;
+}
+
+footer {
+    color: #444444;
+     font-family: "Times New Roman", serif;
+}
+ 
+.descricao de largura {
+    color: #444444;
+    padding: 10px;
+    text-align: justify;
+    font-family: "Times New Roman", serif;
+}
+
+#exemplo1 {
+    border-top-width: 5px;
+    border-color: red;
+    padding: 10px;
+    text-align: center;
+    font-family: "Times New Roman", serif;
+    border-style: solid;
+    
+}#exemplo2 {
+    border-right-width: 5px;
+    border-color: blue;
+    padding: 10px;
+    text-align: center;
+    font-family: "Times New Roman", serif;
+    border-style: solid;
+    
+}
+#exemplo3 {
+    border-bottom-width: 5px;
+    border-color: green;
+    padding: 10px;
+    text-align: center;
+    font-family: "Times New Roman", serif;
+    border-style: solid;
+    
+}
+#exemplo4 {
+    border-left-width: 5px;
+    border-color: pink;
+    padding: 10px;
+    text-align: center;
+    font-family: "Times New Roman", serif;
+    border-style: solid;
+    
+}
