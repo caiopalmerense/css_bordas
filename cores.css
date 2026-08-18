@@ -1,44 +1,50 @@
+ body {
+    background-color: #2b808f;
+    margin: 0;
+    padding: 0;
+    font-family: "Arial", Helvetica, sans-serif;
+}
 h1 {
-    color: #444444;
+    color: black;
     padding: 10px;
     text-align: center;
-     font-family: "Times New Roman", serif;
+     font-family: "Arial", Helvetica, sans-serif;
 }
 h2 {
-   color: #444444;
+   color: black;
     padding: 10px;
     text-align: center;
-     font-family: "Times New Roman", serif;
+    font-family: "Arial", Helvetica, sans-serif;
 }
 h3 {
-   color: #444444;
+   color: black;
     padding: 10px;
     text-align: center;
-     font-family: "Times New Roman", serif;
+     font-family: "Arial", Helvetica, sans-serif;
 }
 h4 {
-   color: #444444;
+   color: black;
     padding: 10px;
     text-align: center;
-     font-family: "Times New Roman", serif;
+    font-family: "Arial", Helvetica, sans-serif;
     font-size: 20px;
 }
 li {
     color: black;
     padding: 10px;
-     font-family: "Times New Roman", serif;
+     font-family: "Arial", Helvetica, sans-serif;
 }
 
 footer {
     color: #444444;
-     font-family: "Times New Roman", serif;
+    font-family: "Arial", Helvetica, sans-serif;
 }
  
 .descricao de cores {
     color: black;
     padding: 10px;
     text-align: justify;
-    font-family: "Times New Roman", serif;
+    font-family: "Arial", Helvetica, sans-serif;
     
 }
 
@@ -46,33 +52,33 @@ p {
     color: black;
     padding: 10px;
     text-align: justify;
-    font-family: "Times New Roman", serif;
+    font-family: "Arial", Helvetica, sans-serif;
 }
 #exemplo4valores {
     border-width: 5px;
-    border-color: red blue green pink;
+    border-color: red yellow green pink;
     padding: 10px;
     text-align: center;
-    font-family: "Times New Roman", serif;
+    font-family: "Arial", Helvetica, sans-serif;
     border-style: solid;
     
 }
 
 #exemplo3valores {
     border-width: 5px;
-    border-color: red blue green;
+    border-color: red yellow green;
     padding: 10px;
     text-align: center;
-    font-family: "Times New Roman", serif;
+    font-family: "Arial", Helvetica, sans-serif;
     border-style: solid;
     
 }
 #exemplo2valores {
     border-width: 5px;
-    border-color: red blue ;
+    border-color: red yellow ;
     padding: 10px;
     text-align: center;
-    font-family: "Times New Roman", serif;
+    font-family: "Arial", Helvetica, sans-serif;
     border-style: solid;
     
 }
@@ -82,7 +88,7 @@ p {
     border-color: red;
     padding: 10px;
     text-align: center;
-    font-family: "Times New Roman", serif;
+    font-family: "Arial", Helvetica, sans-serif;
     border-style: solid;
     
 }
